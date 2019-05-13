@@ -55,7 +55,7 @@ const Container = () => (
                             <h5 class="card-title">React Clicky Game</h5>
                             <a href="https://github.com/b-cortez/Clicky-Game" class="btn btn-light githubBtn" target="_blank" rel="noopener noreferrer">Github
                         </a>
-                        <a href="https://clicky-game-15.herokuapp.com/" class="btn btn-light herokuBtn">Heroku</a>
+                        <a href="https://clicky-game-15.herokuapp.com/" class="btn btn-light herokuBtn" target="_blank" rel="noopener noreferrer">Heroku</a>
                             </div>
 
                             <div class="button button1">
